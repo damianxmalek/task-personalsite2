@@ -1,0 +1,118 @@
+/** color pallete: 
+#907FA4 - main purple
+#A58FAA - secondary light purple
+#A6D6D6 - third turquiose
+#EDEDD0 - fourth pastel yellow
+**/
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    color: #A6D6D6;
+    font-size: 6rem;
+    font-family: 'Sacramento', serif;
+    margin: 50px auto 0 auto;
+}
+h2 {
+    color: #A6D6D6;
+    font-size: 1.5rem;
+}
+h3 {
+    color: #A6D6D6;
+}
+hr {
+    border-color: #e2e287;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 3%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+p {
+    color: black;
+    
+}
+.top-container {
+    background-color: #907FA4;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container {
+    background-color: white;
+
+}
+.bottom-container {
+    background-color: #A58FAA;
+    padding-top: 50px;
+
+}
+.learn {
+    text-decoration: underline;  
+}
+.celestepfp {
+    margin-top: 20px;
+    border-radius: 100%;
+}
+.top-cloud {
+    position:absolute;
+    right: 600px;
+    top: 50px;
+}
+.bottom-cloud {
+    position:absolute;
+    left: 600px;
+    bottom: 300px;
+}
+.skill-row {
+    width: 50%;
+    margin: 50px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+    border-radius: 100%;
+}
+.chillies-img {
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+.chilliesheader {
+    text-align: right;
+}
+.contact-me {
+    margin: 70px 0 50px 0;
+    line-height: 2;
+}
+.footer-paragraph {
+    margin: 50px 0 0 0;
+    padding-bottom: 10px;
+}
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    background: #A6D6D6;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #EDEDD0;
+    text-decoration: none;
+  }
+  .footer-link {
+    text-decoration: none;
+    color: #EDEDD0;
+  }
