@@ -24,13 +24,12 @@ h3 {
     color: #A6D6D6;
 }
 hr {
-    border-color: #e2e287;
+    border-color: #EDEDD0;
     border-style: none;
     border-top-style: dotted;
     border-width: 5px;
     width: 3%;
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin: 50px auto;
 }
 p {
     color: black;
@@ -68,8 +67,8 @@ p {
     bottom: 300px;
 }
 .skill-row {
-    width: 50%;
-    margin: 50px auto 150px auto;
+    width: 40%;
+    margin: 50px auto;
     text-align: left;
     line-height: 2;
 }
@@ -88,11 +87,11 @@ p {
     text-align: right;
 }
 .contact-me {
-    margin: 70px 0 50px 0;
+    margin: 70px auto 50px auto;
     line-height: 2;
 }
 .footer-paragraph {
-    margin: 50px 0 0 0;
+    margin: 50px auto 0 auto;
     padding-bottom: 10px;
 }
 .btn {
@@ -113,6 +112,13 @@ p {
     text-decoration: none;
   }
   .footer-link {
+    margin: auto 10px;
     text-decoration: none;
     color: #EDEDD0;
+  }
+  .mylatin {
+    margin: 0 auto;
+  }
+  .laptopparagraph {
+    width: 90%;
   }
